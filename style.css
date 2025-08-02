@@ -37,7 +37,7 @@ body{
 }
 
 .botao{
-    font-family: 'Chakra petch', sans-serif;
+    font-family: 'Chakra Petch', sans-serif;
     background-color: var(--botao-inativo);
     color: var(--branco);
     display: flex;
@@ -108,7 +108,7 @@ body{
     margin: 0;
 }
 
-.contador-digito-numero{
+.contador-digito-texto{
     color: var(--verde);
     font-size: 20px;
     margin: 0;
